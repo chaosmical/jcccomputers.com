@@ -1,0 +1,62 @@
+<?php
+include_once $_SERVER['DOCUMENT_ROOT'] . '/common/includes/settings.php';
+?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>JCC Computers - Web Design</title>
+		<link rel="shortcut icon" href="/common/images/favicon.ico" type="image/x-icon" />
+		<link rel="icon" href="/common/images/favicon.ico" type="image/x-icon" />
+		<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?3.2.0/build/cssreset/reset-min.css&amp;3.2.0/build/cssfonts/fonts-min.css" />
+		<link rel="stylesheet" type="text/css" href="/common/stylesheet/main.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="/common/stylesheet/print.css" media="print" />
+<script type="text/javascript">
+<!--
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19926513-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+-->
+</script>
+	</head>
+	<body class="yui3-skin-sam yui-skin-sam subpage">
+		<div id="container">
+			<div id="header">
+<?php
+include_once $_SERVER['DOCUMENT_ROOT'] . '/common/includes/header.php';
+?>
+			</div>
+			<ul id="nav">
+				<li><a href="/">Home</a></li>
+				<li><a href="about_us.php">About Us</a></li>
+				<li><a href="products.php">Products</a></li>
+				<li><a class="selected" href="services.php">Services</a></li>
+				<li><a href="partners_vendors.php">Partners and Vendors</a></li>
+				<li><a href="clients_testimonials.php">Clients and Testimonials</a></li>
+				<li><a href="contactus.php">Contact Us</a></li>
+			</ul>
+			<div id="content">
+				<h1>Web Design</h1>
+				<p>JCC offers affordable, quality website design and programming services. Whether it's creating a new web presence for your business or organization, redesigning or improving your existing website, or simply performing regular maintenance or content updates, we can do it all.</p>
+				<h2>New Website</h2>
+				<p>In this day and age, getting a web presence is critical for any business or organization. We can provide you with an attractive, effective website to increase your visibility and help you reach your goals.</p>
+				<h2>Website Redesign and Maintenance</h2>
+				<p>You may already have a website that's outdated, ineffective, looks bad or doesn't work right or isn't doing what you need it to do. We can help you change what needs to be changed to make your website up to date, current, useful and effective.</p>
+				<p>Services include, but are not limited to: graphic design, website design and programming, database development, e-commerce, search engine optimization.</p>
+				<p><a href="contact.php">Contact us now</a> and let us help you!</p>
+				<div id="push"></div>
+			</div>
+		</div>
+		<div id="footer">
+			<div id="footer_content">
+				<p><a href="contactus.php">Contact Us</a> | &copy;2010-<?=date('Y')?> JCC Computers</p>
+			</div>
+		</div>
+	</body>
+</html>

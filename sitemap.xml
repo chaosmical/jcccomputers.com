@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+	<url>
+		<loc>http://www.jcccomputers.com</loc>
+		<lastmod>2014-04-14</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://www.jcccomputers.com/about_us.php</loc>
+		<lastmod>2012-09-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://www.jcccomputers.com/products.php</loc>
+		<lastmod>2014-04-14</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://www.jcccomputers.com/services.php</loc>
+		<lastmod>2013-02-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://www.jcccomputers.com/webdesign.php</loc>
+		<lastmod>2011-08-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://www.jcccomputers.com/partners_vendors.php</loc>
+		<lastmod>2012-12-03</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://www.jcccomputers.com/clients_testimonials.php</loc>
+		<lastmod>2013-09-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://www.jcccomputers.com/contactus.php</loc>
+		<lastmod>2012-12-03</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://www.jcccomputers.com/contact.php</loc>
+		<lastmod>2010-11-17</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.2</priority>
+	</url>
+</urlset>
+                    
+                    
+                    

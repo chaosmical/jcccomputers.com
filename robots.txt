@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /error/
+Disallow: /login/
+Disallow: /openwebmail-cgi/
+Disallow: /phpmyadmin/
+Disallow: /webmail/
+Disallow: /login.php
+Disallow: /redirector.php
