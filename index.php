@@ -46,9 +46,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/common/includes/header.php';
 			</ul>
 			<div id="content">
 				<iframe style="float:right" marginheight="0" marginwidth="0" name="wxButtonFrame" id="wxButtonFrame" height="90" src="http://btn.weather.ca/weatherbuttons/template5.php?placeCode=CASK0276&category0=Cities&containerWidth=150&btnNo=&backgroundColor=blue&multipleCity=0&citySearch=0&celsiusF=C" align="top" frameborder="0" width="150" scrolling="no" allowTransparency="true"></iframe>
-				<p style="font-size:18px;margin-top:15px"><strong>Now open at our new office: 41 - 901 1st Avenue North!</strong></p>
-				<p>We are open for business 7 days a week, from 9am to 9pm. In case we're out of the office, just call before coming down.</p>
-				<p>Office: 306-979-9510</p>
+				<p>We are open for business 7 days a week, from 9am to 9pm. Give us a call at 306-222-9730.</p>
 				<p>We sell Android <a href="products.php">tablets and collectibles</a>!</p>
 <h2>Computer Tech Services</h2>
 <p>Also offering on-site and at your house, you must make an appointment.</p>
@@ -84,7 +82,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/common/includes/header.php';
 <li>SEO Optimization &mdash; increase your business</li>
 <li>Website Marketing</li>
 </ul>
-<p>Call for a meeting and quote and we will go over details with you from start to finish. Call today: 306-979-9510 (office), 306-222-9730 (cell).</p>
+<p>Call for a meeting and quote and we will go over details with you from start to finish. Call today: 306-222-9730.</p>
 				<div id="push"></div>
 			</div>
 		</div>
