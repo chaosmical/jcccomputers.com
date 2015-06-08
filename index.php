@@ -47,7 +47,6 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/common/includes/header.php';
 			<div id="content">
 				<iframe style="float:right;margin-top:15px;" marginheight="0" marginwidth="0" name="wxButtonFrame" id="wxButtonFrame" height="90" src="http://btn.weather.ca/weatherbuttons/template5.php?placeCode=CASK0276&category0=Cities&containerWidth=150&btnNo=&backgroundColor=blue&multipleCity=0&citySearch=0&celsiusF=C" align="top" frameborder="0" width="150" scrolling="no" allowTransparency="true"></iframe>
 				<p style="margin-top:15px">Give us a call at 306-222-9730 for information or to make an appointment.</p>
-				<p>We sell Android <a href="products.php">tablets and collectibles</a>!</p>
 <h2>Computer Tech Services</h2>
 <p>Home or Office</p>
 <ul>
