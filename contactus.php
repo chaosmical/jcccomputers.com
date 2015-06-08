@@ -41,7 +41,6 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/common/includes/header.php';
 			<div id="content">
 				<h1 id="contactus">Contact Us</h1>
 				<p>For more information or to schedule an appointment, <a href="contact.php">send us an email</a> or give us a call at 306-222-9730.</p>
-				<p>Regular hours are 9am to 9pm, 7 days a week.</p>
 				<br clear="all" />
 				<div id="push"></div>
 			</div>
@@ -53,13 +52,3 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/common/includes/header.php';
 		</div>
 	</body>
 </html>
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
