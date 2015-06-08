@@ -40,16 +40,8 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/common/includes/header.php';
 			</ul>
 			<div id="content">
 				<h1 id="contactus">Contact Us</h1>
-				<div id="googlemap">
-					<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.ca/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=901+1st+Avenue+North,+Saskatoon,+SK++S7K+1Y4&amp;sll=52.141463,-106.661485&amp;sspn=0.003351,0.010568&amp;ie=UTF8&amp;hq=&amp;hnear=901+1st+Ave+N,+Saskatoon,+Saskatchewan+S7K+1Y3&amp;ll=52.141159,-106.659073&amp;spn=0.006703,0.021136&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="https://maps.google.ca/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=901+1st+Avenue+North,+Saskatoon,+SK++S7K+1Y4&amp;sll=52.141463,-106.661485&amp;sspn=0.003351,0.010568&amp;ie=UTF8&amp;hq=&amp;hnear=901+1st+Ave+N,+Saskatoon,+Saskatchewan+S7K+1Y3&amp;ll=52.141159,-106.659073&amp;spn=0.006703,0.021136&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
-				</div>
-				<p>Drop by our new office at <strong>41 - 901 1st Avenue North, Saskatoon, SK  S7K 1Y4</strong>.</p>
 				<p>For more information or to schedule an appointment, <a href="contact.php">send us an email</a> or give us a call at 306-979-9510.</p>
 				<p>Regular hours are 9am to 9pm, 7 days a week. After hours or in case of emergencies, contact us at 306-222-9730.</p>
-				<!--div id="streetview">
-					<iframe width="350" height="150" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=1030+B+8th+Street+E,+Saskatoon,+SK.+&amp;layer=c&amp;sll=52.114527,-106.644429&amp;cbp=13,190.13,,0,5.79&amp;cbll=52.114685,-106.64435&amp;hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=1030+8+St+E,+Saskatoon,+Division+No.+11,+Saskatchewan,+Canada&amp;t=m&amp;panoid=ihxV-Hxz7__Cx7ADiLXjdg&amp;source=embed&amp;ll=52.112449,-106.644373&amp;spn=0.007906,0.030041&amp;z=14&amp;output=svembed"></iframe><br />
-					<small><a href="http://maps.google.com/maps?q=1030+B+8th+Street+E,+Saskatoon,+SK.+&amp;layer=c&amp;sll=52.114527,-106.644429&amp;cbp=13,190.13,,0,5.79&amp;cbll=52.114685,-106.64435&amp;hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=1030+8+St+E,+Saskatoon,+Division+No.+11,+Saskatchewan,+Canada&amp;t=m&amp;panoid=ihxV-Hxz7__Cx7ADiLXjdg&amp;source=embed&amp;ll=52.112449,-106.644373&amp;spn=0.007906,0.030041&amp;z=14">View Larger Map</a></small>
-				</div-->
 				<br clear="all" />
 				<div id="push"></div>
 			</div>
