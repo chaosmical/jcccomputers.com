@@ -40,8 +40,8 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/common/includes/header.php';
 			</ul>
 			<div id="content">
 				<h1 id="contactus">Contact Us</h1>
-				<p>For more information or to schedule an appointment, <a href="contact.php">send us an email</a> or give us a call at 306-979-9510.</p>
-				<p>Regular hours are 9am to 9pm, 7 days a week. After hours or in case of emergencies, contact us at 306-222-9730.</p>
+				<p>For more information or to schedule an appointment, <a href="contact.php">send us an email</a> or give us a call at 306-222-9730.</p>
+				<p>Regular hours are 9am to 9pm, 7 days a week.</p>
 				<br clear="all" />
 				<div id="push"></div>
 			</div>
