@@ -43,18 +43,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/common/includes/header.php';
 			</ul>
 			<div id="content">
 				<h1>Products</h1>
-				<div class="content_photo">
-					<a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.jcccomputers.com&media=http%3A%2F%2Fwww.jcccomputers.com%2Fcommon%2Fimages%2Fmini_pc.jpg&description=HDMI cpu (Mini PC)" class="pin-it-button" count-layout="none"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
-					<img src="/common/images/mini_pc.jpg" width="300" height="225" alt="HDMI cpu (Mini PC)" /><br />
-					HDMI cpu (Mini PC)<br /><br /><br />
-					<a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.jcccomputers.com&media=http%3A%2F%2Fwww.jcccomputers.com%2Fcommon%2Fimages%2Fprinter_cable.jpg&description=4 foot USB printer cable" class="pin-it-button" count-layout="none"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
-					<img src="/common/images/printer_cable.jpg" width="300" height="225" alt="4 foot USB printer cable" /><br />
-					4 foot USB printer cable<br /><br /><br />
-					<a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.jcccomputers.com&media=http%3A%2F%2Fwww.jcccomputers.com%2Fcommon%2Fimages%2Fmini_hdmi_cable.jpg&description=Mini HDMI cable" class="pin-it-button" count-layout="none"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
-					<img src="/common/images/mini_hdmi_cable.jpg" width="300" height="225" alt="Mini HDMI cable" /><br />
-					Mini HDMI cable
-				</div>
-				<p>We sell Android tablets and collectibles. Come check them out!</p>
+<p>Whatever your needs are, we can assist you with choosing and purchasing the right techonology for you. Whether it is a desktop computer, laptop, tablet, printer, router or any other accessory, give us a call and we will help you!</p>
 <style type="text/css">
 div.details {
 	font-size: 108%;
@@ -74,10 +63,6 @@ div.details {
 <h3>High Power Wireless N USB Adapter (JHL-N132R)</h3>
 <div class="details">Price: <strong>$39.99</strong></div>
 
-<h2>Accessories</h2>
-<p class="item">HDMI cpu (Mini PC), 1.6ghz dual core rk3066 chipset, bluetooth, android jellybean 4.1.1: $120.00 plus taxes</p>
-<p class="item">4 foot USB printer cables: $10.00 plus taxes</p>
-<p class="item">Micro HMDI to HDMI cable: $20.00 plus taxes<br clear="all" /></p>
 				<div id="push"></div>
 			</div>
 		</div>
