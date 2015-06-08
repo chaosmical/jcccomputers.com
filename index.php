@@ -46,7 +46,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/common/includes/header.php';
 			</ul>
 			<div id="content">
 				<iframe style="float:right" marginheight="0" marginwidth="0" name="wxButtonFrame" id="wxButtonFrame" height="90" src="http://btn.weather.ca/weatherbuttons/template5.php?placeCode=CASK0276&category0=Cities&containerWidth=150&btnNo=&backgroundColor=blue&multipleCity=0&citySearch=0&celsiusF=C" align="top" frameborder="0" width="150" scrolling="no" allowTransparency="true"></iframe>
-				<p>We are open for business 7 days a week, from 9am to 9pm. Give us a call at 306-222-9730.</p>
+				<p style="margin-top:15px">We are open for business 7 days a week, from 9am to 9pm. Give us a call at 306-222-9730.</p>
 				<p>We sell Android <a href="products.php">tablets and collectibles</a>!</p>
 <h2>Computer Tech Services</h2>
 <p>Also offering on-site and at your house, you must make an appointment.</p>
