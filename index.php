@@ -50,11 +50,6 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/common/includes/header.php';
 				<p>We are open for business 7 days a week, from 9am to 9pm. In case we're out of the office, just call before coming down.</p>
 				<p>Office: 306-979-9510</p>
 				<p>We sell Android <a href="products.php">tablets and collectibles</a>!</p>
-				<div class="content_photo">
-					<a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.jcccomputers.com&media=http%3A%2F%2Fwww.jcccomputers.com%2Fcommon%2Fimages%2Foffice.jpg&description=Interior%20of%20JCC%20Computers%20office." class="pin-it-button" count-layout="none"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
-					<img src="/common/images/office.jpg" width="300" height="225" alt="Photo of JCC Computers office interior" /><br />
-					Interior of JCC Computers office.
-				</div>
 <h2>Computer Tech Services</h2>
 <p>Also offering on-site and at your house, you must make an appointment.</p>
 <p>Home or Office</p>
