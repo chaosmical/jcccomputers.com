@@ -46,7 +46,6 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/common/includes/header.php';
 				<h2>Clients</h2>
 				<p>Some of our clients include:</p>
 				<ul>
-					<li><a href="http://www.a1tiresaskatoon.com" rel="external">A1 Tire &amp; Wheel Company of Saskatoon</a></li>
 					<li><a href="http://www.aceoutfitting.com" rel="external">Ace Outfitting Inc.</a></li>
 					<li><a href="http://www.kellyspestcontrol.ca" rel="external">Kelly's Pest Control</a></li>
 				</ul>
