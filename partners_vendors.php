@@ -43,15 +43,9 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/common/includes/header.php';
 			</ul>
 			<div id="content">
 				<h1>Partners and Vendors</h1>
-				<h2>Partners</h2>
-				<a href="http://www.aitsavemyfiles.com" rel="external"><img class="right" src="/common/images/armor-itseo.gif" width="150" height="195" alt="Armor-IT Data Recovery logo" /></a>
-				<p><a href="http://www.aitsavemyfiles.com" rel="external">Armor-IT Data Recovery</a></p>
-				<p>Armor-IT provides all levels of data recovery to any of our clients who require this service. Jer's will happily diagnose any problems you're experiencing and submit damaged devices to Armor-IT on your behalf.</p>
-				<h2>Vendors</h2>
 				<h3>Website hosting</h3>
 				<p><a href="http://www.blacksun.ca" rel="external"><img src="/common/images/blacksun_logo.gif" width="250" height="50" alt="Blacksun" /></a></p>
 				<h3>Security</h3>
-				<!--a href="http://www.suitesolutions.ca/index-9.html" rel="external"><img class="right" src="/common/images/surveillance_logo.jpg" width="287" height="176" alt="Surveillance Solutions" style="border:1px solid black" /></a-->
 				<p><strong>Surveillance Packages</strong> : Our Surveillance Packages provide high-quality, cost-effective recording and monitoring solutions with complete set of surveillance equipment. These packages include - 4 cameras DVR packages, 8 cameras DVR packages, 12 cameras DVR packages, and 16 cameras DVR packages.</p>
 				<p><strong>Security Cameras</strong> : Our security cameras offer dependable remote surveillance functionality that satisfy your security needs completely. They help you capture everything around you and stay aware and alert. We offer a complete range of security cameras that include Indoor Camera, Outdoor Camera, IR Day/Night Camera, Dome Camera, Bullet Camera, Vandal Proof Camera, Hidden Camera, and Pan Tilt Zoom Camera.</p>
 				<p><strong>Digital Video Recorders</strong> : Our digital video recorders come with anti-pixilation technology that offers crystal clear digital video. We provide high quality 4 Channel, 8 Channel and 16 Channel DVR security surveillance systems. They have a larger recording space and high functionality that makes them a perfect match for CCTV cameras.</p>
@@ -65,9 +59,3 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/common/includes/header.php';
 		</div>
 	</body>
 </html>
-                    
-                    
-                    
-                    
-                    
-                    
